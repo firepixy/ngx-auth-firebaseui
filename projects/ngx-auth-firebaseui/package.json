@@ -1,5 +1,5 @@
 {
-  "name": "ngx-auth-firebaseui",
+  "name": "@firepixy/ngx-auth-firebaseui",
   "description": "Open Source Library for Angular Web Apps to integrate a material user interface for firebase authentication",
   "version": "4.3.0",
   "homepage": "https://ngx-auth-firebaseui.firebaseapp.com",
